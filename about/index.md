@@ -11,7 +11,7 @@
 
 ### 相关链接
  - [github](https://github.com/RuanhoR)  
- - [gitee](htttps://gitee.com/n304sc-haoran)  
+ - [gitee](https://gitee.com/n304sc-haoran)  
  - [bilibili](https://b23.tv/0Sfqc9d)
  - QQ 3915264929
  - 邮箱
